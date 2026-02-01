@@ -1,4 +1,4 @@
-# 🚀 100 Days of DSA in C (LeetCode)
+# 🚀 100 Days of DSA in C
 
 This repository contains my 100 Days of Data Structures and Algorithms (DSA) challenge, where I solve LeetCode problems using the C programming language. The purpose of this challenge is to build strong DSA fundamentals, improve problem-solving skills, and maintain consistency through daily coding.
 
